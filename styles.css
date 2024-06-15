@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(175, 177, 170);
+}
+.h1,h3,p{
+    color: rgb(32, 48, 48);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+table,tr,th,td{
+    border: 100% solid;
+    text-align: center;
+    padding: 30px;
+
+}
