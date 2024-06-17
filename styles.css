@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(175, 177, 170);
+    background-color: rgb(218, 240, 164);
 }
 .h1,h3,p{
     color: rgb(32, 48, 48);
@@ -9,7 +9,7 @@
 }
 
 table,tr,th,td{
-    border: 100% solid;
+    border: 1% solid;
     text-align: center;
     padding: 30px;
 
